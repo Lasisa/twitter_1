@@ -1,0 +1,82 @@
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 599px;
+    height: 53px;
+    background-color: Black;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 470px;
+    padding: 10px;
+}
+.head-p {
+    font-family: SF Pro Display;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.img-header {
+    width: 34px;
+    height: 34px;
+}
+hr {
+    width: 599px;
+
+    margin: 0 auto;
+}
+main {
+    width: 599px;
+    height: 120px;
+    background-color: black;
+    margin: 0 auto;
+}
+.profil {
+    width: 599px;
+    height: 80px;
+
+}
+input {
+    font-family: SF Pro Text;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 181px;
+    height: 24px;
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+button {
+    width: 80px;
+    height: 38px;
+    border: none;
+    border-radius: 36px;
+    color: white;
+    background-color: #1D9BF0;
+}
+.profil2 {
+    width: 599px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    gap: 240px;
+}
+
+.user-comment {
+    background-color: lightgrey;
+    border: 1px solid grey;
+    border-radius: 0.5rem;
+    padding: 1rem 0.5rem;
+    margin: 1rem 0;
+}
+
+
+
+
